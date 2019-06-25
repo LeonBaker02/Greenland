@@ -15,9 +15,9 @@ Want to come and see for yourself?
 ---
 
 ## Still not tempted? Here's what some of our explorers have said!
-- "It might be cold, but it sure is worth it!" - G. Land
-- "Absolutely stunning, I'll definitely bring the dog next time." - I. Amcold
-- "Very snowy" - F. Rozen
+- "It might be cold, but it sure is worth it!" - Mr G. Land
+- "Absolutely stunning, I'll definitely bring the dog next time." - Mrs I. Amcold
+- "Very snowy" - Ms F. Rozen
 
 ![Landscape image of a fjord in Greenland, with a mountain range in the backdrop, blue skies and pink clouds with a mirror-like lake in the foreground. ](./static/images/Greenland_2048x1388.jpg)
 
