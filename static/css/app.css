@@ -1,3 +1,32 @@
 /**
 * Your CSS here
 **/
+
+h1, h2, h3 {
+    font-family: 'Cutive Mono', monospace;
+    text-decoration: underline;
+}
+
+.MainHeader {
+    font-size: 40px;
+    color: #DAC1E3;
+}
+
+.SubHeaderA {
+    font-size: 25px;
+    color: #DAC1E3;
+}
+
+.SubHeaderB {
+    font-size: 20px;
+    color: #DFD5E1;
+}
+
+body, p {
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+ul {
+    font-family: 'Lato', sans-serif; 
+}
