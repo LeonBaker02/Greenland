@@ -2,7 +2,6 @@
 ## Chill out with a trip!
 
 ---
-
 ![A viridescant night sky filled with a light blue aurora piercing the stars. A snowy frontier resides beneath, contrasting from the sky above, light seeping in just above the horizon. ](./static/images/Greenland_7360x4912.jpg)
 
 ## Why should you visit us?
@@ -11,18 +10,14 @@
 Want to come and see for yourself?
 
 [Book Now!](https://www.expedia.co.uk/Nuuk.d1359.Holidays-City-Breaks)
-
 ---
-
 ## Still not tempted? Here's what some of our explorers have said!
 - "It might be cold, but it sure is worth it!" - Mr G. Land
 - "Absolutely stunning, I'll definitely bring the dog next time." - Mrs I. Amcold
 - "Very snowy" - Ms F. Rozen
 
 ![Landscape image of a fjord in Greenland, with a mountain range in the backdrop, blue skies and pink clouds with a mirror-like lake in the foreground. ](./static/images/Greenland_2048x1388.jpg)
-
 ---
-
 ## Find things to do!
 
 ![A fantasy-like setting, with mountain ranges in the back and snow topped peaks breaking the nights aurora. Large stones are scattered around, with a pool of reflective water residing in the foreground.](./static/images/Greenland_1620x1080.jpg)
@@ -40,9 +35,7 @@ Want to come and see for yourself?
 1. [Northen Lights](https://tasermiutgreenland.com/package/greenland-northern-lights/)
 2. [Kayaking & Ice Hiking](https://tasermiutgreenland.com/package/kayaking-greenland/)
 3. [Greenland Exploration](https://tasermiutgreenland.com/package/tasermiut-greenland/)
-
 ---
-
 ## Can't convince you with Hotels and Offers?
 ### Here are some facts, maybe this'll twist your mind!
 
@@ -58,7 +51,6 @@ Want to come and see for yourself?
 Become an explorer, travel anywhere and everywhere, achieve anything. Greenland. Land of experiences. Land of beauty. Land of cold.
 
 [Book Now!](https://www.expedia.co.uk/Nuuk.d1359.Holidays-City-Breaks)
-
 ---
 
 ## Greenland too cold?
