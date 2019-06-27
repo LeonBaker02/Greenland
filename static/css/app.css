@@ -1,32 +1,80 @@
 /**
-* Your CSS here
+    - Apply to boxes
+    transition: .5s cubic-bezier(0, 0.9, 0.6, 0.76);
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0, 0.9, 0.6, 0.76);
+    transition-delay: 0s;
+
+    - Figure out how to do the translation thingy for the contents boxes
+    - Make boxes and actually do effects to make variation
 **/
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: 'Cutive Mono', monospace;
-    text-decoration: underline;
 }
 
 .MainHeader {
     font-size: 40px;
     color: #DAC1E3;
+    text-decoration: underline;
 }
 
 .SubHeaderA {
     font-size: 25px;
     color: #DAC1E3;
+    text-decoration: underline;
 }
 
 .SubHeaderB {
     font-size: 20px;
     color: #DFD5E1;
+    text-decoration: underline;
 }
 
-body, p {
-    font-family: 'Raleway', sans-serif;
+.Contents {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+    text-align: center;
+}
+
+.Contents2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    text-align: center;
+}
+
+.Tabs {
+    border: 1xp, solid, #ffffff;
+}
+
+a:link, a:visited, a:hover {
     color: #ffffff;
 }
 
 ul {
-    font-family: 'Lato', sans-serif; 
+    text-align: left;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ 
+div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 5px;
+    text-align: center;
 }
