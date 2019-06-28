@@ -46,8 +46,11 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 
-.Tabs {
-    border: 1xp, solid, #ffffff;
+.Tab {
+    border: 1px solid white;
+    text-align: center;
+    font-size: 10px;
+    margin: 0 0 0 0;
 }
 
 a:link, a:visited, a:hover {
@@ -58,6 +61,13 @@ ul {
     text-align: left;
 }
 
+.BuyButton {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0px, 0px, 0px, 0px;
+    margin: 12px 75px 25px 75px;
+    background-color: #59464F;
+}
 
 body {
     font-family: 'Raleway', sans-serif;
@@ -77,4 +87,9 @@ div {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 5px;
     text-align: center;
+    font-size: 7px;
+}
+
+img {
+    border-radius: 15px;
 }
