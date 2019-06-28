@@ -47,10 +47,16 @@ h1, h2, h3, h4 {
 }
 
 .Tab {
-    border: 1px solid white;
+    border: 1px solid black;
     text-align: center;
     font-size: 10px;
     margin: 0 0 0 0;
+    background-color: #59464F;
+    transition: background-color .5s ease;
+}
+
+.Tab:hover {
+    background-color: black;
 }
 
 a:link, a:visited, a:hover {
@@ -67,6 +73,22 @@ ul {
     padding: 0px, 0px, 0px, 0px;
     margin: 12px 75px 25px 75px;
     background-color: #59464F;
+    transition: background-color .5s ease;
+}
+
+.BuyButton:hover {
+    background-color: black;
+}
+
+.Gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+    image-resolution: 
+}
+
+.SortsOutMargin {
+    margin: 0px 0px 25px 0px;
 }
 
 body {
@@ -92,4 +114,9 @@ div {
 
 img {
     border-radius: 15px;
+    transition: filter .5s ease-in-out;
+}
+
+img:hover {
+    filter: blur(2px) grayscale(50%);
 }
